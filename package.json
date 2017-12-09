@@ -1,0 +1,22 @@
+{
+  "name": "react-native-sample",
+  "version": "1.0.0",
+  "description": "Initializers for react-natives built using make-sample",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "sampleApp": {
+    "preInstall": "node ./node_modules/react-native-sample/bin/preInstall.js",
+    "postInstall": "node ./node_modules/react-native-sample/bin/postInstall.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhdeck/react-native-sample-init.git"
+  },
+  "author": "Ray Deck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhdeck/react-native-sample-init/issues"
+  },
+  "homepage": "https://github.com/rhdeck/react-native-sample-init#readme"
+}
