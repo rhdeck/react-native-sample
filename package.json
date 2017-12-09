@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rhdeck/react-native-sample-init/issues"
   },
-  "homepage": "https://github.com/rhdeck/react-native-sample-init#readme"
+  "homepage": "https://github.com/rhdeck/react-native-sample-init#readme",
+  "dependencies": {
+    "react-native": "^0.51.0"
+  }
 }
